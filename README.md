@@ -33,12 +33,12 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUSTAFA-Hamzawy&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--
-<p align="center">
-    <a href=""><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  </p>
--->
+
+## Contact :mailbox_with_no_mail:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=2001121366579&text=Hi%20%F0%9F%98%80%20)](https://api.whatsapp.com/send?phone=2001121366579&text=Hi%20%F0%9F%98%80%20)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/mustafa_hamzawy)](https://t.me/mustafa_hamzawy)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mustafa.mahmoud@gmail.com)](mailto:dev.mustafa.mahmoud@gmail.com)
 
 <!--
 **MUSTAFA-Hamzawy/MUSTAFA-Hamzawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
