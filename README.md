@@ -12,7 +12,9 @@ Back-End Developer | Software Engineer :robot:. (In progress)
 <img  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="PHP" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg" alt="Java" width="50" height="50"/> &nbsp;
 <br> <img  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="MySql" width="50" height="50"/>
-<br> <img  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Git or Github" width="50" height="50"/> 
+<br> <img  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Git or Github" width="50" height="50"/>
+<img  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="50" height="50"/> 
+<img  src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" alt="PHP Storm" width="50" height="50"/>  
 
 
 
