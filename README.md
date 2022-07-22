@@ -1,6 +1,11 @@
   <img src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/profile-img.png" align="right" width="25%"/>
   
-<h1 align="center">Hi, I'm Mustafa 👋</h1>
+<h1>Hi, I'm Mustafa 👋</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=2001121366579&text=Hi%20%F0%9F%98%80%20)](https://api.whatsapp.com/send?phone=2001121366579&text=Hi%20%F0%9F%98%80%20)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/mustafa_hamzawy)](https://t.me/mustafa_hamzawy)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mustafa.mahmoud@gmail.com)](mailto:dev.mustafa.mahmoud@gmail.com)
 
 <b>About Me:</b>
 
@@ -26,6 +31,12 @@
 <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/04568bed1ab00468b0387835a044162db6f8ece7/logos/tools/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d69636f6e2e737667.svg" alt="VS Code" width="50" height="50"/> 
 <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/tools/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f70687073746f726d2d6c6f676f2d323230423633334344412d7365656b6c6f676f2e636f6d2e706e67.png" alt="PHP Storm" width="50" height="50"/>  
 
+
+<!--## 📫 Contact:-->
+
+
+
+
 ## 📊 &nbsp;Stats
 
 ![Mustafa' Github Stats](https://github-readme-stats.vercel.app/api?username=MUSTAFA-Hamzawy&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)&nbsp;
@@ -34,11 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUSTAFA-Hamzawy&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Contact :mailbox_with_no_mail:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=2001121366579&text=Hi%20%F0%9F%98%80%20)](https://api.whatsapp.com/send?phone=2001121366579&text=Hi%20%F0%9F%98%80%20)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/mustafa_hamzawy)](https://t.me/mustafa_hamzawy)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mustafa.mahmoud@gmail.com)](mailto:dev.mustafa.mahmoud@gmail.com)
+
 
 <!--
 **MUSTAFA-Hamzawy/MUSTAFA-Hamzawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
