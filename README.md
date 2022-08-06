@@ -47,7 +47,7 @@
 
 ### 👀 visitors
 
-<img src="https://profile-counter.glitch.me/MUSTAFA-Hamzawy/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/MUSTAFA-Hamzawy/count.svg" alt="Visitors Count" />
 
 
 <!--
