@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/profile-img.png" align="right" width="26%"/>
+  <img src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/profile-img.png" align="right" width="25%"/>
   
 <h1>Hi, I'm Mustafa 👋</h1>
 
