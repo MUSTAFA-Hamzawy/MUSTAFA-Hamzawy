@@ -11,7 +11,7 @@
 
 <ul>
   <li>I'm a Computer Science and Engineering Student at Faculty of Engineering, Cairo University</li>
-  <li>Back-End Developer | Software Engineer (In progress)</li>
+  <li>Back-End Developer | Software Engineer</li>
 </ul>
 
 
