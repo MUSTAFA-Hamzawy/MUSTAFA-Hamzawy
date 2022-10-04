@@ -25,6 +25,7 @@
 <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/css3-original.svg" alt="CSS3" width="50" height="50"/>
 <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/php.png" alt="PHP" width="50" height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/laravel-seeklogo.com.svg" alt="Laravel" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/java.svg" alt="Java" width="50" height="50"/> &nbsp;
 <br> <img  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="MySql" width="50" height="50"/>
 <br> <img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/tools/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4769744875622d4d61726b2e706e67.png" alt="Git or Github" width="50" height="50"/>
