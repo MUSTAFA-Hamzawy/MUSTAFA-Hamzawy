@@ -10,14 +10,26 @@
 <b>About Me:</b>
 
 <ul>
-  <li>I'm a Computer Science and Engineering Student at Faculty of Engineering, Cairo University</li>
-  <li>Back-End Developer | Software Engineer</li>
+<li><strong>
+Software engineering student at Faculty of Engineering, Cairo University.
+</strong></li>
+
+<li><strong>
+Passionate about backend development.
+</strong></li>
+
+<li><strong>
+Skilled in web development ( PHP Laravel ).
+</strong></li>
+
+
+<li><strong>
+Familiar with Python, C, C++, Java, JavaScript, and assembly.
+</strong></li>
 </ul>
 
 
-
-
-## 🧰 &nbsp;Languages & Tools
+## 🧰 Skills
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -60,22 +72,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUSTAFA-Hamzawy&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
 ### 👀 visitors
 
 <img src="https://profile-counter.glitch.me/MUSTAFA-Hamzawy/count.svg" alt="Visitors Count" />
 
-<!--
-**MUSTAFA-Hamzawy/MUSTAFA-Hamzawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My CV
+<p align="left">More Details <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
+ CV </a>
+</p>
