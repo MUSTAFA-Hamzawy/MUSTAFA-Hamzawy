@@ -53,7 +53,10 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
 ## 📊 &nbsp;Stats
 
 ![Mustafa' Github Stats](https://github-readme-stats.vercel.app/api?username=MUSTAFA-Hamzawy&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)&nbsp;
+
+<!-- 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MUSTAFA-Hamzawy&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUSTAFA-Hamzawy&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb)](https://github.com/anuraghazra/github-readme-stats)
 -->
