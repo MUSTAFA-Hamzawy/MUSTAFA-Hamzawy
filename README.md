@@ -28,6 +28,9 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
 </strong></li>
 </ul>
 
+<strong>  For more details, this is my <strong> <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
+ Resume </strong> </a>
+
 
 ## 🧰 Skills
 
@@ -64,8 +67,3 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
 ### 👀 visitors
 
 <img src="https://profile-counter.glitch.me/MUSTAFA-Hamzawy/count.svg" alt="Visitors Count" />
-
-### My CV
-<p align="left">More Details <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
- CV </a>
-</p>
