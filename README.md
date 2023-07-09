@@ -39,7 +39,7 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="60" title="PHP" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="60" title="Laravel" />
   <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/mysql-logo.svg" width="60" title="MySQL" />
-  <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" width="60" title="Node.js" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="70" title="Node.js" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" title="MongoDB" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="60" title="JS" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="60" title="HTML" />
