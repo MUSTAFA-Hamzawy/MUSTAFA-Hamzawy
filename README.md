@@ -40,12 +40,13 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="60" title="Laravel" />
   <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/mysql-logo.svg" width="60" title="MySQL" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="70" title="Node.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="70" title="TypeScript" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" title="MongoDB" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="60" title="JS" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="60" title="HTML" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="60" title="CSS" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="60" title="C++" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="60" title="Java" />
+ <!-- <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="60" title="Java" /> -->
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="60" title="Python" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="60" title="ReactJS" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="60" title="Linux" />
