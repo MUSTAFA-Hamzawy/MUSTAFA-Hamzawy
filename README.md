@@ -18,6 +18,7 @@ Software engineering student at Faculty of Engineering, Cairo University.
 Passionate about backend development.
 </strong></li>
 
+<!--
 <li><strong>
 Skilled in web development ( PHP Laravel ).
 </strong></li>
@@ -26,6 +27,7 @@ Skilled in web development ( PHP Laravel ).
 <li><strong>
 Familiar with Python, C, C++, Java, JavaScript, and assembly.
 </strong></li>
+-->
 </ul>
 
 <strong>  For more details,  <strong> <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
