@@ -29,7 +29,7 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
 </ul>
 
 <strong>  For more details, this is my <strong> <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
- Resume </strong> </a>
+ CV </strong> </a>
 
 
 ## 🧰 Tech Stack
