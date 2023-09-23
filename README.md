@@ -32,7 +32,7 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
  Resume </strong> </a>
 
 
-## 🧰 Skills
+## 🧰 Tech Stack
 
 <div align='center'>
  
