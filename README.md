@@ -36,24 +36,24 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
 
 <div align='center'>
  
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="60" title="PHP" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="60" title="Laravel" />
-  <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/mysql-logo.svg" width="60" title="MySQL" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="70" title="Node.js" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="70" title="PHP" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="70" title="Laravel" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/mysql.svg" width="70" title="MySQL" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="70" title="Node.js" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="70" title="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" title="MongoDB" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="60" title="JS" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="60" title="HTML" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="60" title="CSS" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="60" title="C++" />
- <!-- <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="60" title="Java" /> -->
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="60" title="Python" />
-<!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="60" title="ReactJS" />  -->
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="60" title="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="70" title="MongoDB" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="70" title="JS" />
+<!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="70" title="HTML" />  -->
+<!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="70" title="CSS" />  -->
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="70" title="C++" />
+ <!-- <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="70" title="Java" /> -->
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="70" title="Python" />
+<!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="70" title="ReactJS" />  -->
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="70" title="Linux" />
 <br>
 <br>
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/bash.svg" width="60" title="Bash Scripting" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="60" title="Docker" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/bash.svg" width="70" title="Bash Scripting" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="70" title="Docker" />
   
 </div>
 
