@@ -52,7 +52,7 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="60" title="Linux" />
 <br>
 <br>
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="60" title="Linux" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/bash.svg" width="60" title="Bash Scripting" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="60" title="Docker" />
   
 </div>
