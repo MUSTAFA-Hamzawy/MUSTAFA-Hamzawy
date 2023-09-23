@@ -39,10 +39,10 @@ Familiar with Python, C, C++, Java, JavaScript, and assembly.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="70" title="PHP" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="70" title="Laravel" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/mysql.svg" width="70" title="MySQL" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="70" title="JS" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="70" title="Node.js" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="70" title="TypeScript" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="70" title="MongoDB" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="70" title="JS" />
 <!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="70" title="HTML" />  -->
 <!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="70" title="CSS" />  -->
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="70" title="C++" />
