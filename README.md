@@ -12,7 +12,7 @@
 <ul>
 
 <li><strong>
-Junior SWE @ <a href="https://www.linkedin.com/company/onehealthbyaxa/">OneHealth</a>
+Software Engineer @ <a href="https://www.linkedin.com/company/onehealthbyaxa/">OneHealth</a>
 </strong></li>
 
 <li><strong>
@@ -20,19 +20,19 @@ Software engineering student at Faculty of Engineering, Cairo University.
 </strong></li>
 
 <li><strong>
-Passionate about backend development.
-</strong></li>
-
-<!--
-<li><strong>
-Skilled in web development ( PHP Laravel ).
+Over 1 year of experience in building and optimizing scalable backend systems.
 </strong></li>
 
 
 <li><strong>
-Familiar with Python, C, C++, Java, JavaScript, and assembly.
+Proficient in modern web technologies like NodeJS, PHP, MySQL, and MongoDB.
 </strong></li>
--->
+
+
+<li><strong>
+Eager to learn and take on new challenges in backend development.
+</strong></li>
+
 </ul>
 
 <strong>  For more details,  <strong> <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
