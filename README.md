@@ -35,7 +35,7 @@ Eager to learn and take on new challenges in backend development.
 
 </ul>
 
-<strong>  For more details,  <strong> <a href="https://drive.google.com/file/d/1cls6Bg7niPoTfae6ZsEELR1uLn-CoY3T/view?usp=sharing" target="_blank">
+<strong>  For more details,  <strong> <a href="https://drive.google.com/file/d/1Jq930t3ZGTNTtVjjYFnV8COVxwJC4-32/view?usp=sharing" target="_blank">
  This is my CV </strong> </a>
 
 
