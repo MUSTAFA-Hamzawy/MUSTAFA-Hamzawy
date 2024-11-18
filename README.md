@@ -16,7 +16,7 @@ Software Engineer @ <a href="https://www.linkedin.com/company/onehealthbyaxa/">O
 </strong></li>
 
 <li><strong>
-Software engineering student at Faculty of Engineering, Cairo University.
+Software Engineer with a Bachelor's degree in Computer Engineering from Cairo University.
 </strong></li>
 
 <li><strong>
@@ -25,7 +25,7 @@ Over 1 year of experience in building and optimizing scalable backend systems.
 
 
 <li><strong>
-Proficient in modern web technologies like NodeJS, PHP, MySQL, and MongoDB.
+Proficient in modern web technologies like NodeJS, TypeScript, PHP, MySQL, PostgreSQL, and MongoDB.
 </strong></li>
 
 
