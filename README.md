@@ -46,10 +46,15 @@ Eager to learn and take on new challenges in backend development.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="70" title="PHP" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="70" title="Laravel" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/mysql.svg" width="70" title="MySQL" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="70" title="PostgreSQL" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="70" title="JS" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="70" title="Node.js" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="70" title="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="70" title="MongoDB" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" width="70" title="Nest.js" />
+  <br> <br>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="70" title="GraphQL" />
+  <img src="https://www.svgrepo.com/show/373701/jest-snapshot.svg" width="70" title="Jest" />
+  <img src="https://www.logo.wine/a/logo/PHPUnit/PHPUnit-Logo.wine.svg" width="70" title="PHPUnit" />
 <!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="70" title="HTML" />  -->
 <!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="70" title="CSS" />  -->
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="70" title="C++" />
@@ -57,8 +62,6 @@ Eager to learn and take on new challenges in backend development.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="70" title="Python" />
 <!--  <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="70" title="ReactJS" />  -->
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="70" title="Linux" />
-<br>
-<br>
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/bash.svg" width="70" title="Bash Scripting" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="70" title="Docker" />
   
